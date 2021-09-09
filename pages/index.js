@@ -17,7 +17,7 @@ function Contador() {
     }
     return(
         <div>
-            <div>o Número é: {contador}</div>
+            <div>O número incrementado é: {contador}</div>
             <button onClick={adicionar}>Adicionar</button>
         </div>
     )
